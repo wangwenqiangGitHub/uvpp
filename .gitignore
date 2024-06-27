@@ -1,0 +1,11 @@
+*.idea
+CMakeLists.txt.user
+cmake-build-debug/*
+build
+bak
+build-armv7
+libuv
+libuvx86
+.cache
+libuvxxxx
+.root
